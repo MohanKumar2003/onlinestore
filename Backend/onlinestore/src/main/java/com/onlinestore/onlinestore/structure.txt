@@ -1,0 +1,32 @@
+online store
++ kitchen
+ - mixer
+ - dosa pan
+ - plates
+ - knife
++ Electronics
+ - blubs
+ - wires
+ - switches and boards
+ - watches
+ - keyboards
+ - mouse
++ Mobiles
+ - Redmi
+ - apple
+ - oppo
+ - samsung
+ - realme
+ - nokia
++ laptops
+ - Hp
+ - dell
+ - asus
+ - lenovo
+ - apple
++ dress
+ - for mens
+ - for ladies
+ - for childrens
+
+ new 
